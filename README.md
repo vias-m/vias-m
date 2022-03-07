@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viasar @vias-m
-- 👀 I’m interested in Enginereing and Tech
-- 🌱 I’m currently an Undergraduate in National University of Singapore
+- 👀 I’m interested in Engineering and Tech
+- 🌱 I’m currently an undergraduate at the National University of Singapore
 - 💞️ I’m looking to collaborate on Start-Up projects
 - 📫 How to reach me: viasar@outlook.com
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viasar (@vias-m)
+- 👋 Hi, I’m Viasar @vias-m
 - 👀 I’m interested in Enginereing and Tech
 - 🌱 I’m currently an Undergraduate in National University of Singapore
 - 💞️ I’m looking to collaborate on Start-Up projects
